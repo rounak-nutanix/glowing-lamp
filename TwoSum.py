@@ -34,6 +34,7 @@ def neg(a):
 print(add(5,10))
 print(sub(10,3))
 print(mul(4, 6))
+print(mul(5,7))
 print(div(10, 2))
 print(div(10, 0))
 print(mod(7, 3))
